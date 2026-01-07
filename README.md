@@ -4,6 +4,8 @@
 
 I am a software engineer and a strong believer of 'mess around and find out' principle. I have had the privilidge to work with some amazing people and teams over the years and contribute to some really amazing projects. Check out some of the places I have worked at and some of my work below.
 
+If you want to know more about me in a bit more interactve way 👉🏻 [click here](https://www.royalsanga.com) 
+
 Currently based in **Chandigarh, India**. 🌍
 
 ## 🚀 Featured Projects

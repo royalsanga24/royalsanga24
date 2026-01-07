@@ -44,5 +44,5 @@ Here is a snapshot of the high-impact projects I've built or led:
 - 📧 **Email:** [royalsanga24@gmail.com](mailto:royalsanga24@gmail.com)
 
 <!-- GitHub Stats Widget -->
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=royalsanga24&show_icons=true&theme=radical&hide_border=true" alt="Royal's GitHub Stats" />
+<!-- <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=royalsanga24&show_icons=true&theme=radical&hide_border=true" alt="Royal's GitHub Stats" /> -->

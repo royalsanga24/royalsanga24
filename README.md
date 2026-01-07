@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Royal Sanga! 👋
 
-<!--
-**royalsanga24/royalsanga24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Founding Engineer | Senior Full-Stack & AI Lead**
 
-Here are some ideas to get you started:
+I am a software engineer with **5+ years of experience** leading technical teams and delivering ideas from concept to completion. I specialize in architecting scalable data-driven applications, building AI/ML engines, and delivering solutions across **Web2** and **Web3** platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in **Chandigarh, India**. 🌍
+
+## 🚀 Featured Projects
+
+Here is a snapshot of the high-impact projects I've built or led:
+
+| Project | Role | Key Tech | Live Link |
+| :--- | :--- | :--- | :--- |
+| **Stealth Web3 Startup** | Founding Engineer | Game Engine, Redis Pub/Sub, WebSockets, Anti-Cheat | *Under Development 🚧* |
+| **CartoonCoin** | Lead Engineer | Solana, Rust, Next.js, Smart Contracts | [View Site](https://cartooncoin.fun/) |
+| **RIFFLIX** | Senior Full-Stack | AI Engine, WebAssembly (Wasm), FastAPI, Firebase | [View App](https://rifflix-web-dev.web.app/) |
+| **Metafaur AI** | Lead AI Engineer | Next.js, Python, Express, AI Integration | [View Site](https://www.metafaur.com/) |
+| **Hiry** | Founding Engineer | Remix, RabbitMQ, Real-time Chat, Talent Engine | [View Site](https://hiry.com/) |
+| **The Website Baba** | Backend Engineer | Django, MS Graph API, Speech-to-Text AI Models | [View Site](https://thewebsitebaba.com/) |
+
+## 🛠️ Technical Arsenal
+
+### Frontend & UI
+`React` `Remix` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
+
+### Backend & Data
+`Python` `Django` `Express.js` `PostgreSQL` `Redis` `RabbitMQ` `Drizzle ORM`
+
+### AI / ML
+`TensorFlow` `PyTorch` `Computer Vision` `NLP (LLMs)` `React-three`
+
+### Cloud & DevOps
+`AWS` `GCP` `Firebase` `Docker` `Cloudflare Workers` `CI/CD`
+
+### Web3
+`Solana` `Rust` `Web3.js` `Smart Contracts`
+
+## 🌐 Connect with Me
+
+- 🖥️ **Portfolio:** [www.royalsanga.com](https://www.royalsanga.com)
+- 🐦 **Twitter:** [@sanga_royal](https://twitter.com/sanga_royal)
+- ✍️ **Medium:** [@royalsanga24](https://medium.com/@royalsanga24)
+- 📧 **Email:** [royalsanga24@gmail.com](mailto:royalsanga24@gmail.com)
+
+<!-- GitHub Stats Widget -->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=royalsanga24&show_icons=true&theme=radical&hide_border=true" alt="Royal's GitHub Stats" />

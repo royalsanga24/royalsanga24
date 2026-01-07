@@ -2,7 +2,7 @@
 
 > **Founding Engineer | Senior Full-Stack & AI Lead**
 
-I am a software engineer with **5+ years of experience** leading technical teams and delivering ideas from concept to completion. I specialize in architecting scalable data-driven applications, building AI/ML engines, and delivering solutions across **Web2** and **Web3** platforms.
+I am a software engineer and a strong believer of 'mess around and find out' principle. I have had the privilidge to work with some amazing people and teams over the years and contribute to some really amazing projects. Check out some of the places I have worked at and some of my work below.
 
 Currently based in **Chandigarh, India**. 🌍
 

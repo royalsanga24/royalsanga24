@@ -10,7 +10,7 @@ Currently based in **Chandigarh, India**. 🌍
 
 ## 🚀 Featured Projects
 
-Here is a snapshot of the high-impact projects I've built or led:
+Here is a snapshot of the projects I've built and teams I've been a part of:
 
 | Project | Role | Key Tech | Live Link |
 | :--- | :--- | :--- | :--- |

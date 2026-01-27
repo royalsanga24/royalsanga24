@@ -21,23 +21,6 @@ Here is a snapshot of the projects I've built and teams I've been a part of:
 | **Hiry** | Founding Engineer | Remix, RabbitMQ, Real-time Chat, Talent Engine | [View Site](https://hiry.com/) |
 | **The Website Baba** | Backend Engineer | Django, MS Graph API, Speech-to-Text AI Models | [View Site](https://thewebsitebaba.com/) |
 
-## 🛠️ Technical Arsenal
-
-### Frontend & UI
-`React` `Remix` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
-
-### Backend & Data
-`Python` `Django` `Express.js` `PostgreSQL` `Redis` `RabbitMQ` `Drizzle ORM`
-
-### AI / ML
-`TensorFlow` `PyTorch` `Computer Vision` `NLP (LLMs)` `React-three`
-
-### Cloud & DevOps
-`AWS` `GCP` `Firebase` `Docker` `Cloudflare Workers` `CI/CD`
-
-### Web3
-`Solana` `Rust` `Web3.js` `Smart Contracts`
-
 ## 🌐 Connect with Me
 
 - 🖥️ **Portfolio:** [www.royalsanga.com](https://www.royalsanga.com)

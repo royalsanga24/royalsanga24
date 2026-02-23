@@ -14,7 +14,7 @@ Here is a snapshot of the projects I've built and teams I've been a part of:
 
 | Project | Role | Key Tech | Live Link |
 | :--- | :--- | :--- | :--- |
-| **Arcade.rip** | Founding Engineer | Game Engine, Redis Pub/Sub, WebSockets, Anti-Cheat | *Under Development 🚧* |
+| **Arcade.rip** | Founding Engineer | Game Engine, Redis Pub/Sub, WebSockets, Anti-Cheat | [View Site](https://arcade.rip/) |
 | **CartoonCoin** | Lead Engineer | Solana, Rust, Next.js, Smart Contracts | [View Site](https://cartooncoin.fun/) |
 | **RIFFLIX** | Senior Full-Stack | AI Engine, WebAssembly (Wasm), FastAPI, Firebase | [View App](https://rifflix-web-dev.web.app/) |
 | **Metafaur AI** | Lead AI Engineer | Next.js, Python, Express, AI Integration | [View Site](https://www.metafaur.com/) |

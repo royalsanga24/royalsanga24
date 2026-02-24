@@ -1,6 +1,6 @@
-# Hi there, I'm Royal Sanga! 👋
+# Hi there, I'm Royal Sanga!
 
-> **Founding Applied AI Engineer | Senior Full-Stack & AI Lead**
+> ** Applied AI Engineer | Senior Full-Stack **
 
 I am a software engineer and a strong believer of 'mess around and find out' principle. I have had the privilidge to work with some amazing people and teams over the years and contribute to some really amazing projects. Check out some of the places I have worked at and some of my work below.
 

@@ -6,7 +6,6 @@ I am a software engineer and a strong believer of 'mess around and find out' pri
 
 Know More about me 👉🏻 [click here](https://www.royalsanga.com) 
 
-Currently based in **Chandigarh, India**. 🌍
 
 ## 🚀 Featured Projects
 
